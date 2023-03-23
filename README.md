@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, Nice to see you. I am <b> Efnan Gülşen Özkan </b> </h1>
 <h3 align="center">Junior Frontend Developer</h3>
 
-- 🌱 I’m currently learning **React, Next, SQL**
+- 🌱 I’m currently learning **HTML,CSS, JavaScript, ReactJS, NextJS, SQL**
 
 - 📫 How to reach me **efnanozkann@gmail.com**
 
